@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Artem Akymenko</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"><![CDATA[Software Developer adept at crafting scalable and robust applications using Java Core and popular frameworks such as Spring and Hibernate ORM. Skilled in conducting unit testing with JUnit, managing project dependencies with Maven, and proficient in version control using Git within IntelliJ IDEA. Possesses Upper-Intermediate level English proficiency, facilitating effective communication in diverse project environments. Eager to apply and further develop technical skills in a dynamic professional setting. Transitioning from a role as a mechanic of C&MA, I bring hands-on problem-solving and leadership experience to software development.]]></string>
+</resources>
